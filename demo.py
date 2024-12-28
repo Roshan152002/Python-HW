@@ -87,4 +87,23 @@
 # print(set1)  # {'h', 'l', 'o', 'e'}
 
 
+# print(1 ,end=' ')
+# print(1 ,end=' ')
+# print(1 ,end=' ')
+
+# l = list([1,2,3,4])
+# print(l.index(3))
+# print(l)
+
+# l = [1,3,-1,5,6]
+
+# for i in l:
+#     if i < 0:
+#         l.insert(-1,i)
         
+# print(l)
+
+
+
+l = dict(name ='roshan',age=22)
+print(l)
